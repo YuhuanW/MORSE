@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Experiment outputs
+runs/
+checkpoints/
+outputs/
+wandb/
+mlruns/
+
+# Local data and credentials
+data/
+datasets/
+*.pth
+*.pt
+*.ckpt
+.env
